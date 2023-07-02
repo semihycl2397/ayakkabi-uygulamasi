@@ -10,7 +10,7 @@ Modal ve diğer bileşenleri kullanmak için aşağıdaki komutu kullanarak gere
 npm install react-modal
 
 
-# ShoesModal.js dosyası, ayakkabı bilgilerini gireceğimiz modal bileşenini içerecektir.
+ ShoesModal.js dosyası, ayakkabı bilgilerini gireceğimiz modal bileşenini içerecektir.
 
 
 # Ana bileşenin oluşturulması
